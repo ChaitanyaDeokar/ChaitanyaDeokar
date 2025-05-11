@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Chaitanya Deokar – a Data Scientist passionate about solving real-world problems using machine learning, deep learning, and AI.<br>🎓 Currently pursuing MSc in Data Science at TU Dublin | 🧠 Ex-AI & Data Science undergrad<br>🔧 Skilled in Python, SQL, TensorFlow, AWS, and more — with 8+ end-to-end projects delivering measurable impact<br>📊 I love building intelligent systems — from predictive maintenance and stock forecasting to OCR and recommendation engines<br>🌐 Portfolio: chaitanyadeokar.netlify.app
+👋 Hi, I'm Chaitanya Deokar – a Data Scientist passionate about solving real-world problems using machine learning, deep learning, and AI.<br>🎓 Currently pursuing MSc in Data Science at TU Dublin | 🧠 Ex-AI & Data Science undergrad<br>🔧 Skilled in Python, SQL, TensorFlow, AWS, and more — with 8+ end-to-end projects delivering measurable impact<br>📊 I love building intelligent systems — from predictive maintenance and stock forecasting to OCR and recommendation engines<br>🌐 Portfolio: [(chaitanyadeokar.netlify.app)](https://chaitanyadeokar.netlify.app/)
 
 
 ## 🌐 Socials:
